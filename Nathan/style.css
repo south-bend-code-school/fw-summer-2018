@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  color: white;
+  font-family:Times New Roman;
+  text-align: center;
+}
+h1 {
+  color: #04ff00;
+  font-family: Helvetica;
+}
+h2 {
+  color: #00ffd8;
+  font-family: Arial
+}
+h2:hover {
+  color:blue;
+}

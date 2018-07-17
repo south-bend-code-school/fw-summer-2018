@@ -1,0 +1,150 @@
+body {
+  background-image: url(dogebackground.jpg);
+}
+
+#gameholder{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title{
+  font-style: oblique;
+  font-family: cursive;
+}
+
+.doge1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge1:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge1:active {
+  background-image: url(doge.png);
+}
+
+.doge2 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge2:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge2:active {
+  background-image: url(doge.png);
+}
+
+.doge3 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge3:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge3:active {
+  background-image: url(doge.png);
+}
+
+
+.doge4 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge4:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge4:active {
+  background-image: url(doge.png);
+}
+
+.evildoge {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.evildoge:hover {
+  background-image: url(questionmark.png);
+}
+
+.evildoge:active {
+  background-image: url(evildoge.png);
+}
+
+.doge6 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge6:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge6:active {
+  background-image: url(doge.png);
+}
+
+.doge7 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge7:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge7:active {
+  background-image: url(doge.png);
+}
+
+.doge8 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge8:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge8:active {
+  background-image: url(doge.png);
+}
+
+.doge9 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(doghouse.png);
+}
+
+.doge9:hover {
+  background-image: url(questionmark.png);
+}
+
+.doge9:active {
+  background-image: url(doge.png);
+}

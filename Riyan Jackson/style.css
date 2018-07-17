@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 250%;
+}
+h3 {
+  font-size: 160%;
+}
+
+p {
+  font-family:serif;
+  font-size: 146%;
+}

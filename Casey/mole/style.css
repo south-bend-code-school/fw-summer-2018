@@ -1,0 +1,138 @@
+body {
+background-color: grey;
+}
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mole1 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole1:hover{
+  background-image: url(questionmark.png);
+}
+.mole1:active {
+  background-image: url(mole.png)
+}
+
+.mole2 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole2:active {
+  background-image: url(monster.jpg);
+}
+.mole2:hover{
+  background-image: url(questionmark.png);
+}
+
+.mole3 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole3:hover{
+  background-image: url(questionmark.png);
+}
+.mole3:active {
+  background-image: url(monster.jpg)
+}
+
+.monster {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.monster:hover{
+  background-image: url(questionmark.png);
+}
+
+.monster:active {
+  background-image: url(monster.jpg)
+}
+
+.mole5 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole5:hover{
+  background-image: url(questionmark.png);
+}
+.mole5:active {
+  background-image: url(monster.jpg)
+}
+.mole6 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole6:hover{
+  background-image: url(questionmark.png);
+}
+.mole6:active {
+  background-image: url(mole.png)
+}
+
+.mole7 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole7:hover{
+  background-image: url(questionmark.png);
+}
+.mole7:active {
+  background-image: url(mole.png)
+}
+
+.mole8 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole8:hover{
+  background-image: url(questionmark.png);
+}.mole8:active {
+  background-image: url(monster.jpg);
+}
+
+.mole9 {
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(defaulttreasure.png);
+}
+.mole9:hover{
+  background-image: url(questionmark.png);
+}
+.mole9:active {
+  background-image: url(mole.png)
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50;
+  color: Red;
+}
+marquee{
+  font-weight: bold
+  color: black;
+  size: 15;
+}
+small{
+font-weight: bold;
+font-style: italic;
+}

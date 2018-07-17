@@ -1,0 +1,28 @@
+body{
+background-color: grey;
+color: lightgrey;
+font-family: blue;
+text-align: center;
+}
+
+h1{
+  color: black;
+  font-weight: bold;
+}
+
+p{
+font-size: 30;
+}
+
+small{
+font-size: 20;
+}
+
+marquee{font-weight: bolder;
+  font-size: 100;
+  color: black;
+}
+
+img {
+border: 10px solid black;
+}

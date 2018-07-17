@@ -1,0 +1,118 @@
+body {
+  background-color: red;
+}
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mole1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole1:hover {
+  background-image: url(mark.jpg)
+}
+    .mole1:active {
+      background-image: url(mole.jpg)
+    }
+.mole2 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole2:hover {
+  background-image: url(mark.jpg)
+}
+.mole2:active {
+  background-image: url(mole.jpg)
+}
+.mole3 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole3:hover {
+  background-image: url(mark.jpg)
+}
+.mole3:active {
+  background-image: url(mole.jpg)
+}
+.mole4 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole4:hover {
+  background-image: url(mark.jpg)
+}
+.mole4:active {
+  background-image: url(mole.jpg)
+}
+.murloc {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.murloc:hover {
+  background-image: url(mark.jpg)
+}
+
+.murloc:active {
+  background-image: url(murloc.jpg)
+}
+
+.mole6 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole6:hover {
+  background-image: url(mark.jpg)
+}
+.mole6:active {
+  background-image: url(mole.jpg)
+}
+.mole7 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole7:hover {
+  background-image: url(mark.jpg)
+}
+.mole7:active {
+  background-image: url(mole.jpg)
+}
+.mole8 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole8:hover {
+  background-image: url(mark.jpg)
+}
+.mole8:active {
+  background-image: url(mole.jpg)
+}
+.mole9 {
+  width: 200px;
+  height: 200px;
+  float: left;
+    background-image: url(dirt.jpg);
+}
+.mole9:hover {
+  background-image: url(mark.jpg)
+}
+.mole9:active {
+  background-image: url(mole.jpg)
+}

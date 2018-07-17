@@ -1,0 +1,127 @@
+body {
+  background-color: lightpink;
+}
+
+  #gameholder {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #title {
+    text-align: center;
+  }
+
+#mole1 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole1:hover {
+  background-image: url("question.gif");
+}
+
+#mole2 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole2:hover {
+  background-image: url("question.gif");
+}
+
+#mole3 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole3:hover {
+  background-image: url("question.gif");
+}
+
+#mole4 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole4:hover {
+  background-image: url("question.gif");
+}
+
+#mole5 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole5:hover {
+  background-image: url("question.gif");
+}
+
+#mole6 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole6:hover {
+  background-image: url("question.gif");
+}
+
+#mole7 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole7:hover {
+  background-image: url("question.gif");
+}
+
+#mole8 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole8:hover {
+  background-image: url("question.gif");
+}
+
+#mole9 {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#mole9:hover {
+  background-image: url("question.gif");
+}
+
+#monster {
+ width: 200px;
+ height: 200px;
+ float: left;
+ background-image: url("dirt.png")
+}
+
+#monster:hover {
+  background-image: url("question.gif");
+}
+
+#monster:active {
+  background-image: url("monster.png");
+}

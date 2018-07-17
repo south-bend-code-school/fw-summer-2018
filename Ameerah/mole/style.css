@@ -1,0 +1,125 @@
+body{
+  background-color: orange;
+}
+
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title {
+  width: 600;
+  height: 150;
+  color: black;
+  text-align: center;
+}
+.mole1{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole1:hover {
+  background-image: url("question.png");
+}
+
+.mole1:active {
+  background-image: url("squirrel.jpg");
+}
+.mole2{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole2:hover{
+  background-image: url("question.png");
+}
+.mole2:active {
+  background-image: url("squirrel.jpg");
+}
+.mole3{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole3:hover {
+  background-image: url("question.png");
+}
+.mole3:active {
+  background-image: url("squirrel.jpg");
+}
+.mole4{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole4:hover {
+  background-image: url("question.png");
+}
+.mole4:active {
+  background-image: url("squirrel.jpg");
+}
+.mole5{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole5:hover {
+  background-image: url("question.png");
+}
+.mole5:active {
+  background-image: url("squirrel.jpg");
+}
+.mole6{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole6:hover {
+  background-image: url("question.png");
+}
+.mole6:active {
+  background-image: url("squirrel.jpg");
+}
+.mole7{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole7:hover {
+  background-image: url("question.png");
+}
+.mole7:active {
+  background-image: url("squirrel.jpg");
+}
+.mole8{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.mole8:hover {
+  background-image: url("question.png");
+}
+.mole8:active {
+  background-image: url("squirrel.jpg");
+}
+.monster{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url("leaves.jpg");
+}
+.monster:hover {
+  background-image: url("question.png");
+}
+.monster:active {
+  background-image: url("monster.png");
+}

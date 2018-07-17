@@ -1,0 +1,144 @@
+body {
+  background-color: aquamarine;
+}
+
+  #gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.mole1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole1:hover {
+  background-image: url(question.png);
+}
+
+.mole1:active {
+  background-image: url(mole.png);
+}
+
+.mole2 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole2:hover {
+  background-image: url(question.png);
+}
+
+.mole2:active {
+  background-image: url(mole.png);
+}
+
+.mole3 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole3:hover {
+  background-image: url(question.png);
+}
+
+.mole3:active {
+  background-image: url(mole.png);
+}
+
+.mole4 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole4:hover {
+  background-image: url(question.png);
+}
+
+.mole4:active {
+  background-image: url(mole.png);
+}
+
+.mole5 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole5:hover {
+  background-image: url(question.png);
+}
+
+.mole5:active {
+  background-image: url(mole.png);
+}
+
+.monster {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.monster:hover {
+  background-image: url(question.png);
+}
+
+.monster:active {
+  background-image: url(monster.png);
+}
+
+.mole7 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole7:hover {
+  background-image: url(question.png);
+}
+
+.mole7:active {
+  background-image: url(mole.png);
+}
+
+.mole8 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole8:hover {
+  background-image: url(question.png);
+}
+
+.mole8:active {
+  background-image: url(mole.png);
+}
+
+.mole9 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(dirt.jpg);
+}
+
+.mole9:hover {
+  background-image: url(question.png);
+}
+
+.mole9:active {
+  background-image: url(mole.png);
+}

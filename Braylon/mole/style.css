@@ -1,0 +1,161 @@
+body {
+  background-color: blue;
+}
+
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title {
+  text-align: center;
+  margin-top: 5%;
+}
+
+#mole1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole1:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole2 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole2:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole3 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole3:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#monster {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole4:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole5 {
+  width: 200px;
+  height :200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole5:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole6 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole6:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole7 {
+  width: 200px;
+  height :200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole7:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole8 {
+  width: 200px;
+  height :200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole8:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole9 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole9:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole10 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("dirt.jpg");
+}
+
+#mole10:hover {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("ground.png");
+}
+
+#mole10:active {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("monster.png");
+}

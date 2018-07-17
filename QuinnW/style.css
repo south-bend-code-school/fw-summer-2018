@@ -1,0 +1,11 @@
+  body {
+    background-color:blue;
+    color:green;
+    font-family: fantasy;
+    text-align: center;
+  }
+
+  h1 {
+    color:black
+inherit;font-weight: bold;
+}

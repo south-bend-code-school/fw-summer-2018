@@ -1,0 +1,168 @@
+body{
+background-color: teal;
+}
+
+#gameholder{
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#title{
+width: 600;
+height:150;
+color: blue;
+text-align: center;
+}
+
+.raccon1 {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+.raccon1:hover{
+background-image: url(quiestion.png);
+}
+
+  .raccon1:active{
+    background-image: url(raccon.png)
+}
+
+.raccon2{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(pileofsnow.jpg);
+}
+
+.raccon2:hover{
+background-image: url(quiestion.png);
+}
+
+.raccon2:active{
+  background-image: url(raccon.png)
+}
+
+.raccon3 {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+
+
+.raccon3:hover {
+background-image: url(quiestion.png);
+}
+
+.raccon3:active{
+  background-image: url(raccon.png)
+}
+
+
+.raccon4 {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+.raccon4:active{
+  background-image: url(raccon.png)
+}
+
+.raccon4:hover{
+background-image: url(quiestion.png);
+}
+
+.raccon4:active{
+  background-image: url(raccon.png)
+}
+
+
+.winner{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(pileofsnow.jpg);
+}
+
+
+
+
+.winner:hover{
+background-image: url(quiestion.png);
+}
+
+.winner:active{
+  background-image: url(raccon.png)
+}
+
+.raccon6 {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+
+
+
+.raccon6:hover {
+background-image: url(quiestion.png);
+}
+
+.raccon6:active{
+  background-image: url(raccon.png)
+}
+
+.raccon7 {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+.raccon7:hover{
+background-image: url(quiestion.png);
+}
+
+.raccon7:active{
+  background-image: url(raccon.png)
+}
+
+
+.raccon8{
+  width: 200;
+  height: 200;
+  float: left;
+  background-image: url(pileofsnow.jpg);
+}
+
+.raccon8:hover{
+background-image: url(quiestion.png);
+}
+
+.raccon8:active{
+  background-image: url(raccon.png)
+}
+
+
+
+.monster {
+width: 200;
+height: 200;
+float: left;
+background-image: url(pileofsnow.jpg);
+}
+
+.monster:hover {
+background-image: url(quiestion.png);
+}
+
+.monster:active{
+  background-image: url(monster.png)
+}

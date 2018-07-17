@@ -1,0 +1,10 @@
+love
+cool
+ice
+panda
+cute
+sister
+brother
+code
+shchool
+jon

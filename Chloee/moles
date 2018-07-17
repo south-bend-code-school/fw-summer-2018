@@ -1,0 +1,16 @@
+<!doctype=html>
+<html>
+  <head>
+      <title>Chloee's fun with bugs </title>
+      <link rel="stylesheet" href="style.css">
+        </head>
+      <body>
+        src=<iframe width="560" height="315" src="https://www.youtube.com/embed/-PRxeme6arE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <h1>welcome to Chloee's fun with bugs!</h1>
+          <marquee> thank you for vising my site.</marquee>
+          <p>I made this for people who like bugs like me.</p>
+src=<iframe width="560" height="315" src="https://www.youtube.com/embed/SKykTBnaQWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <img src="bug.jpg">
+<img src="fact's about bugs">
+    </body>
+  </html>

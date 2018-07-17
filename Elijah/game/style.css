@@ -1,0 +1,143 @@
+body{
+  background-color: green;
+}
+
+#gameholder {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mole1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("grass.jpg");
+}
+
+.mole1:hover {
+  background-image:url("e.png");
+}
+
+.mole1:active {
+  background-image: url("mole.png");
+}
+
+.mole2 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image:url("grass.jpg");
+}
+
+.mole2:hover {
+  background-image: url("e.png");
+}
+
+.mole2:active {
+  background-image: url("mole.png");
+}
+
+.mole3 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url("grass.jpg");
+}
+
+.mole3:hover {
+  background-image: url("e.png");
+}
+
+.mole3:active {
+  background-image: url(mole.png);
+}
+
+.mole4 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(grass.jpg);
+}
+
+.mole4:hover {
+  background-image: url(e.png);
+}
+
+.mole4:active {
+  background-image: url(mole.png);
+}
+
+.monster {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image:url(grass.jpg);
+}
+
+.monster:hover {
+  background-image:url(e.png);
+}
+
+.monster:active {
+  background-image:url(d.jpg);
+}
+
+.mole6 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(grass.jpg);
+}
+
+.mole6:hover {
+  background-image: url(e.png);
+}
+
+.mole6:active {
+  background-image: url(mole.png);
+}
+
+.mole7 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(grass.jpg);
+}
+
+.mole7:hover {
+  background-image: url(e.png);
+}
+
+.mole7:active {
+  background-image: url(mole.png);
+}
+
+.mole8 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(grass.jpg);
+}
+
+.mole8:hover {
+  background-image: url(e.png);
+}
+
+.mole8:active {
+  background-image: url(mole.png);
+}
+
+.mole9 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  background-image: url(grass.jpg);
+}
+.mole9:hover {
+  background-image: url(e.png);
+}
+
+.mole9:active {
+  background-image: url(mole.png);
+}

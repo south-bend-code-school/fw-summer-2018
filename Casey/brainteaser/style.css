@@ -1,0 +1,17 @@
+body{
+background-color: grey;
+color: lightgrey;
+font-family: blue;
+text-align: center;
+}
+
+marquee{
+text-align: center;
+text-font bold;
+color: black;
+font-size: 700;
+}
+h1{
+  font-size: 300;
+  color: red;
+}
